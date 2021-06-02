@@ -1,0 +1,274 @@
+{
+  "continents":[
+    {
+      "id": "europe",
+      "title": "Europa",
+      "description": "O continente mais antigo do mundo.",
+      "image": "https://images.unsplash.com/photo-1520986840182-5b15f734c85c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1057&q=80",
+      "info": {
+        "banner": "https://images.unsplash.com/photo-1512734099960-65a682cbfe2b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "count_country": 50,
+        "count_language": 60,
+        "count_cities": 27,
+        "cities": [
+          {
+            "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/GB/flat/48.png",
+            "country": "Reino Unido",
+            "city": "Londres"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80",
+            "flag_country": "https://www.countryflags.io/FR/flat/48.png",
+            "country": "França",
+            "city": "Paris"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1591014979417-20f9a787a4da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1039&q=80",
+            "flag_country": "https://www.countryflags.io/IT/flat/48.png",
+            "country": "Itália",
+            "city": "Roma"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/CZ/flat/48.png",
+            "country": "República Tcheca",
+            "city": "Praga"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1440839244390-3ff581c0f7e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/NL/flat/48.png",
+            "country": "Países Baixos",
+            "city": "Amsterdã"
+          }
+        ]
+      }
+    },
+    {
+      "id": "north-america",
+      "title": "América do Norte",
+      "description": "Conheça um pedaço da terra do tio SAM.",
+      "image": "https://images.unsplash.com/photo-1616832880279-0f4f2de8cb27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80",
+      "info": {
+        "banner": "https://bigseventravel.com/wp-content/uploads/2019/08/Screenshot-2019-08-12-at-17.38.11.png",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+        "count_country": 4,
+        "count_language": 2,
+        "count_cities": 15,
+        "cities": [
+          {
+            "image": "https://images.unsplash.com/photo-1560814304-4f05b62af116?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+            "flag_country": "https://www.countryflags.io/CA/flat/48.png",
+            "country": "Canadá",
+            "city": "Vancouver"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1559682468-a6a29e7d9517?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/CA/flat/48.png",
+            "country": "Canadá",
+            "city": "Montreal"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=956&q=80",
+            "flag_country": "https://www.countryflags.io/UM/flat/48.png",
+            "country": "Estados Unidos",
+            "city": "Orlando"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/UM/flat/48.png",
+            "country": "Estados Unidos",
+            "city": "Los Angeles"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1616423841125-8307665a0469?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+            "flag_country": "https://www.countryflags.io/MX/flat/48.png",
+            "country": "México",
+            "city": "Cancún"
+          }
+        ]
+      }
+    },
+    {
+      "id": "south-america",
+      "title": "América do Sul",
+      "description": "O continente mais verde do mundo.",
+      "image": "https://images.unsplash.com/photo-1589228710553-095226fc298b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+      "info": {
+        "banner": "https://images.unsplash.com/photo-1593069567131-53a0614dde1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+        "count_country": 13,
+        "count_language": 5,
+        "count_cities": 20,
+        "cities": [
+          {
+            "image": "https://images.unsplash.com/photo-1591533985302-42123fa9240b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+            "flag_country": "https://www.countryflags.io/PE/flat/48.png",
+            "country": "Peru",
+            "city": "Lima"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1617721751087-ae4a46ebb980?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+            "flag_country": "https://www.countryflags.io/BR/flat/48.png",
+            "country": "Brasil",
+            "city": "Foz do Iguaçu"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1520501247332-6fb052b72414?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            "flag_country": "https://www.countryflags.io/CO/flat/48.png",
+            "country": "Colombia",
+            "city": "Medelin"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1615192302497-3aee71f65274?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80",
+            "flag_country": "https://www.countryflags.io/CL/flat/48.png",
+            "country": "Chile",
+            "city": "Patagônia"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1515700281303-5a0a73d9c584?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/BR/flat/48.png",
+            "country": "Brasil",
+            "city": "Rio de Janeiro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "asian",
+      "title": "Ásia",
+      "description": "O maior continente do mundo.",
+      "image": "https://images.unsplash.com/photo-1605045544284-d13c6d6a60a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80",
+      "info": {
+        "banner": "https://images.unsplash.com/photo-1504457047772-27faf1c00561?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=817&q=80",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+        "count_country": 49,
+        "count_language": 20,
+        "count_cities": 60,
+        "cities": [
+          {
+            "flag_country": "https://www.countryflags.io/TH/flat/48.png",
+            "image": "https://images.unsplash.com/photo-1586567078458-b5e499305b97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=803&q=80",
+            "country": "Tailândia",
+            "city": "Krabi"
+          },
+          {
+            "flag_country": "https://www.countryflags.io/TH/flat/48.png",
+            "image": "https://images.unsplash.com/photo-1520961810802-7f0a32de665a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1155&q=80",
+            "country": "Tailândia",
+            "city": "Surat Thani"
+          },
+          {
+            "flag_country": "https://www.countryflags.io/JP/flat/48.png",
+            "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+            "country": "Japão",
+            "city": "Quioto"
+          },
+          {
+            "flag_country": "https://www.countryflags.io/CN/flat/48.png",
+            "image": "https://images.unsplash.com/photo-1615986412212-c5264d4cdf05?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "country": "China",
+            "city": "Huairou"
+          },
+          {
+            "flag_country": "https://www.countryflags.io/JP/flat/48.png",
+            "image": "https://images.unsplash.com/photo-1484190034679-e5849344a8da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+            "country": "Japão",
+            "city": "Osaka"
+          }
+        ]
+      }
+    },
+    {
+      "id": "african",
+      "title": "África",
+      "description": "conheça o por do sol mais bonito do mundo.",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=751&q=80",
+      "info": {
+        "banner": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+        "count_country": 54,
+        "count_language": 20,
+        "count_cities": 20,
+        "cities": [
+          {
+            "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+            "flag_country": "https://www.countryflags.io/KE/flat/48.png",
+            "country": "Quênia",
+            "city": "Park National Tsavo"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1583409612679-90ecabb5bbb4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+            "flag_country": "https://www.countryflags.io/ZA/flat/48.png",
+            "country": "África do Sul",
+            "city": "Cidade do Cabo"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/EG/flat/48.png",
+            "country": "Egito",
+            "city": "Cairo"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1587760376595-24f1d2483018?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=667&q=80",
+            "flag_country": "https://www.countryflags.io/MA/flat/48.png",
+            "country": "Marrocos",
+            "city": "Merzouga"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1614761064788-ff40eb38a116?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/MA/flat/48.png",
+            "country": "Marrocos",
+            "city": "Alto Atlas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "oceania",
+      "title": "Oceânia",
+      "description": "Conheça o conitente das ilhas.",
+      "image": "https://images.unsplash.com/photo-1595263187083-1334b774dfb2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=782&q=80",
+      "info": {
+        "banner": "https://images.unsplash.com/photo-1560103104-06ca25d359ea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.",
+        "count_country": 14,
+        "count_language": 7,
+        "count_cities": 10,
+        "cities": [
+          {
+            "image": "https://images.unsplash.com/photo-1560103104-4623c14a473b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/ID/flat/48.png",
+            "country": "Indonésia",
+            "city": "Nusa Penida"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+            "flag_country": "https://www.countryflags.io/NZ/flat/48.png",
+            "country": "Nova Zelândia",
+            "city": "Auckland"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1528988719300-046ff7faf8cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=889&q=80",
+            "flag_country": "https://www.countryflags.io/NZ/flat/48.png",
+            "country": "Nova Zelândia",
+            "city": "Roys Peak"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+            "flag_country": "https://www.countryflags.io/AU/flat/48.png",
+            "country": "Austrália",
+            "city": "Sydney"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1612415491873-144fd5e03169?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "flag_country": "https://www.countryflags.io/AU/flat/48.png",
+            "country": "Austrália",
+            "city": "Melbourne"
+          }
+        ]
+      }
+    }
+  ]
+}
